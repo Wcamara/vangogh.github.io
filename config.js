@@ -1,4 +1,4 @@
 window.PORTFOLIO_CONFIG = {
-  supabaseUrl: "COLE_AQUI_A_URL_DO_SUPABASE",
-  supabaseAnonKey: "COLE_AQUI_A_CHAVE_ANON_DO_SUPABASE"
+  supabaseUrl: "https://otlkldhocpwjprfpzqhe.supabase.co/rest/v1/",
+  supabaseAnonKey: "sb_publishable_DZktOnFg0BBfWTxyzd2k7w_Ec-x44vT"
 };
